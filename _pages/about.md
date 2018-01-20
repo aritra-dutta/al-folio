@@ -6,7 +6,7 @@ description: <a href="">Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
-  image: IMG_2335.jpg
+  image: IMG_2335.JPG
   address: >
     <p>Visual Computing Center</p> 
     <p>Division of Computer, Electrical and Mathematical Sciences and Engineering (CEMSE)</p>
