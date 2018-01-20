@@ -6,7 +6,7 @@ description: <a href="">Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: IMG_2335.jpg
   address: >
     <p>Visual Computing Center</p> 
     <p>Division of Computer, Electrical and Mathematical Sciences and Engineering (CEMSE)</p>
@@ -20,5 +20,6 @@ news: true
 social: true
 ---
 
-Hello! I am Aritra.
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/){:target="\_blank"} and [Academicons](https://jpswalsh.github.io/academicons/){:target="\_blank"}, like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Hello! I am Aritra. I graduated with a Ph.D. in mathematics from the University of Central Florida. My research is mainly focused on the weighted and structured low-rank approximation of matrices and their applications in machine learning and computer vision. Additionally, I work on the applications of compressive sensing to automatic target recognition. As a result of my work, I have developed a deep understanding of the following areas of mathematics: non-linear optimization, convex optimization, and numerical analysis. Presently I am a Postdoctoral Fellow at the VCC, KAUST with Prof. Peter Richtarik. 
+
+
