@@ -8,9 +8,13 @@ profile:
   align: right
   image: prof_pic.jpg
   address: >
-    <p>555 your office numbers</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Visual Computing Center</p> 
+    <p>Division of Computer, Electrical and Mathematical Sciences and Engineering (CEMSE)</p>
+    <p>Al Khwarizmi Bldg 1</p>
+    <p>King Abdullah University of Science and Technology (KAUST)</p>
+    <p>Thuwal 23955-6900, Kingdom of Saudi Arabia</p>
+    <p>Email: aritra.dutta@kaust.edu.sa </p>
+
 
 news: true
 social: true
